@@ -1,0 +1,61 @@
+#pragma once
+
+/*---
+-----Author : Cecelia Lim Jie Shi, Wong Wai Yi, Dennis Lau Yik Ann
+-----Class	: RSF Y2
+-----Date	: 09/04/2021
+-----Version: 5
+-----GitHub : Darken_Cat
+-----==============================================================
+-----======================Command List============================
+-----==============================================================
+-----==== spacebar		= reset the displays					===
+-----==== up arrow		= Move robot farther to view		    ===
+-----==== down arrow	= Move robot nearer from view		    ===
+-----==== left arrow	= Rotate view to the left			    ===
+-----==== right arrow	= Rotate view to the right				===
+-----==== O				= Ortho projection						===
+-----==== P				= Perspective projection				===
+-----==== A				= Move view left						===
+-----==== D				= Move view right						===
+-----==== W				= Move view up							===
+-----==== S				= Move view down					    ===
+-----==== F1			= Change color						    ===
+-----==== F2			= Change background					    ===
+-----==== F3			= Texture On/Off					    ===
+-----==== F4			= Light  On/Off Pink				    ===
+-----==== F5			= Move the light up						===
+-----==== F6			= Move the light down				    ===
+-----==== F7			= Move the light left				    ===
+-----==== F8			= Move the light right				    ===
+-----==== HOME			= Move the light near				    ===
+-----==== END			= Move the light far				    ===
+-----==== INSERT		= Change face expression			    ===
+-----==== DELETE		= Change to flg leg					    ===
+-----==== Q				= Change weapon							===
+-----==== E				= Attack move						    ===
+-----==== 1				= Turn the head up					    ===
+-----==== 2				= Turn the head down					===
+-----==== 3				= Turn the head left					===
+-----==== 4				= Turn the head right					===
+-----==== 5				= Whole leg movement 1				    ===
+-----==== 6				= Whole leg movement 2					===
+-----==== 7				= Small leg movement 1					===
+-----==== 8				= Small leg movement 2					===
+-----==== 9				= Whole hand movement 1					===
+-----==== 0				= Whole hand movement 2				    ===
+-----==== -				= Palm movement 1						===
+-----==== =				= Body movement 1						===
+-----==== [				= Pet movement 1						===
+-----==== ]				= Pet movement 2						===
+-----==== Z				= Walk forward animation				===
+-----==== X				= Walk backward animation				===
+-----==== C				= Run forward animation				    ===
+-----==== V				= Fly upward animation					===
+-----==== B				= Pet Attack (Boom Shakalaka)			===
+-----==== N				= SwitchPet Attack Attribute			===
+-----==== esc			= exit the program						===
+-----==============================================================
+-----==============================================================
+-----==============================================================
+-----*/
